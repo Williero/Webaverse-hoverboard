@@ -1,5 +1,6 @@
 {
   "name": "hoverboard",
+  "description": "hoverboard",
   "start_url": "index.js",
   "components": [
     {
