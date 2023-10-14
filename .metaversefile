@@ -1,7 +1,7 @@
 {
   "name": "hoverboard",
   "description": "hoverboard",
-  "start_url": "index.js",
+  "start_url": "skateboard.glb",
   "components": [
     {
       "key": "sit",
